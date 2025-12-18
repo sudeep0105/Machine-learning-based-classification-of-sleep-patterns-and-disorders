@@ -1,0 +1,2 @@
+# Machine-learning-based-classification-of-sleep-patterns-and-disorders
+This project uses the Kaggle Sleep Health Dataset to improve sleep disorder diagnosis. By replacing traditional, costly methods with Stacking and Voting Ensemble Classifiers, the system overcomes the limitations of single models like KNN and SVM. This approach provides a robust, accurate, and accessible solution to improve patient outcomes.
