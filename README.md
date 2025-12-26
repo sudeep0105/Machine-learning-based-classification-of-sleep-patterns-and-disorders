@@ -1,6 +1,21 @@
 # Machine-learning-based-classification-of-sleep-patterns-and-disorders
 This project addresses the limitations of traditional sleep disorder diagnostics, such as Polysomnography (PSG), which are often costly and inaccessible. Using the Kaggle Sleep Health and Lifestyle Dataset, the study transitions from individual machine learning models—like KNN, SVM, and Random Forest—to more sophisticated Ensemble Learning architectures. By implementing Stacking and Voting Classifiers, the proposed system mitigates common algorithmic weaknesses like hyperparameter sensitivity and computational inefficiency. The result is a robust, cost-effective diagnostic tool that leverages daily health and lifestyle metrics to provide accurate sleep disorder classification, aiming to improve early intervention and patient quality of life.
 
+<h4>Algorithms Used:</h4>
+<ul>
+  <li>KNN Algorithm</li>
+  <li>SVM ALgorithm</li>
+  <li>Decision Tree Algorthm</li>
+  <li>Random Forest Algorithm</li>
+  <li>ANN Algorithm</li>
+</ul>
+
+<h4>classifiers Used:</h4>
+<ul>
+  <li>Stacking Classifier</li>
+  <li>Voting Classifier</li>
+</ul>
+  
 <h3>Accuracy score of Algorithms:</h3>
 
 
